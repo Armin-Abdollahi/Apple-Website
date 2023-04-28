@@ -1,0 +1,41 @@
+body{
+    background: url("Pic/white-painted-wood.jpg") fixed;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+a:hover{
+    color: darkblue;
+}
+h1,h2,h3,h4,h5{
+    font-family: IranNastaliq;
+    margin-top: 2px;
+}
+.btn{
+    border-radius: 5px 5px 5px 5px;
+}
+.btn_hover:hover{
+    background-color: darkgray;
+}
+nav{
+    direction: ltr;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+section{
+    text-align: center;
+}
+button{
+    margin: 5px;
+}
+p{
+    font-size: 20px;
+}
+section>l>a{
+    color: cornflowerblue;
+}
