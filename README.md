@@ -1,4 +1,5 @@
 # Apple-Website
 
 
-![](/Apple-Website.gif)
+![](https://github.com/Armin-Abdollahi/Apple-Website/blob/main/Apple-Website.gif)
+
